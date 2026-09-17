@@ -1,5 +1,7 @@
 # acovia-fcitx5-theme
 
+A minimal Fcitx5 theme implemented via SVG, featuring a rounded, GNOME-like style.
+
 dark:
 
 <img width="660" height="268" alt="图片" src="https://github.com/user-attachments/assets/1b6e5066-58f2-4b19-b473-377279422f50" />
@@ -7,8 +9,6 @@ dark:
 light:
 
 <img width="660" height="268" alt="图片" src="https://github.com/user-attachments/assets/3395410f-dc45-4d4f-9d65-1da07a1958de" />
-
-A minimal Fcitx5 theme implemented via SVG, featuring a rounded, GNOME-like style.
 
 ## Installation
 
