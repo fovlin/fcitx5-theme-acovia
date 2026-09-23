@@ -1,6 +1,6 @@
 # acovia-fcitx5-theme
 
-A minimal Fcitx5 theme implemented via SVG, featuring a rounded, GNOME-like style.
+一个通过 svg 实现的最小 fcitx5 主题，风格为圆角，类 gnome 主题。
 
 dark:
 
@@ -10,19 +10,21 @@ light:
 
 <img width="660" height="268" alt="图片" src="https://github.com/user-attachments/assets/3395410f-dc45-4d4f-9d65-1da07a1958de" />
 
-## Installation
+## 安装
 
 ```bash
 git clone https://github.com/fovlin/fcitx5-theme-acovia.git
-cd acovia-fcitx5-theme
-mkdir -p ~/.local/share/fcitx5/themes/
+cd fcitx5-theme-acovia
+mkair -p ~/.local/share/fcitx5/themes/
 cp -r ./* ~/.local/share/fcitx5/themes/
 ```
 
-Then open `fcitx5-configtool`, go to the Classic UI settings, and select the Acovia theme.
+随后在 `fcitx5-configtool` 工具 - 经典用户界面设置内选择 Acovia 主题。
 
-## Customization
+## 定制
 
-The theme's appearance is implemented via SVG files. Edit the SVG files and modify the fill and stroke values to change colors.
+主题外观以来 svg 实现，编辑 svg 文件，修改其中 `fill`，`stroke` 的值来更改其颜色。
 
-You can also adjust specific parameters in `fcitx5-configtool`, which essentially edits the `theme.conf` file through the GUI.
+可选在 `fcitx5-configtool` 工具中调整具体参数，这本质上是通过 gui 工具编辑 `theme.conf` 的值。
+
+参考开发文档：[https://fovlin.com/docs/linux-notes/fcitx5-theme-dev.html](https://fovlin.com/docs/linux-notes/fcitx5-theme-dev.html)
