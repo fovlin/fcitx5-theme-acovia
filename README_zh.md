@@ -13,8 +13,8 @@ light:
 ## 安装
 
 ```bash
-git clone https://github.com/fovlin/acovia-fcitx5-theme.git
-cd acovia-fcitx5-theme
+git clone https://github.com/fovlin/fcitx5-theme-acovia.git
+cd fcitx5-theme-acovia
 mkair -p ~/.local/share/fcitx5/themes/
 cp -r ./* ~/.local/share/fcitx5/themes/
 ```
