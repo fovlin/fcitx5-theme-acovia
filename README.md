@@ -23,7 +23,7 @@ cp -r ./* ~/.local/share/fcitx5/themes/
 
 ## 定制
 
-主题外观以来 svg 实现，编辑 svg 文件，修改其中 `fill`，`stroke` 的值来更改其颜色。
+主题外观以 svg 来实现，编辑 svg 文件，修改其中 `fill`，`stroke` 的值来更改其颜色。
 
 可选在 `fcitx5-configtool` 工具中调整具体参数，这本质上是通过 gui 工具编辑 `theme.conf` 的值。
 
