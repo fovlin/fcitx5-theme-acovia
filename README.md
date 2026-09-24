@@ -15,7 +15,7 @@ light:
 ```bash
 git clone https://github.com/fovlin/fcitx5-theme-acovia.git
 cd fcitx5-theme-acovia
-mkair -p ~/.local/share/fcitx5/themes/
+mkdir -p ~/.local/share/fcitx5/themes/
 cp -r ./* ~/.local/share/fcitx5/themes/
 ```
 
