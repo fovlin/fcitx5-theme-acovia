@@ -21,6 +21,10 @@ cp -r ./* ~/.local/share/fcitx5/themes/
 
 随后在 `fcitx5-configtool` 工具 - 经典用户界面设置内选择 Acovia 主题。
 
+## 注意
+
+- 在英文环境下的桌面环境使用 fcitx5，会因文字基准线差异导致文字上浮，请使用中文环境。
+
 ## 定制
 
 主题外观以 svg 来实现，编辑 svg 文件，修改其中 `fill`，`stroke` 的值来更改其颜色。
