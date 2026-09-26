@@ -31,4 +31,4 @@ cp -r ./* ~/.local/share/fcitx5/themes/
 
 可选在 `fcitx5-configtool` 工具中调整具体参数，这本质上是通过 gui 工具编辑 `theme.conf` 的值。
 
-参考开发文档：[https://fovlin.com/docs/linux-notes/fcitx5-theme-dev.html](https://fovlin.com/docs/linux-notes/fcitx5-theme-dev.html)
+可供参考的开发文档：[https://fovlin.com/docs/linux-notes/fcitx5-theme-dev.html](https://fovlin.com/docs/linux-notes/fcitx5-theme-dev.html)
