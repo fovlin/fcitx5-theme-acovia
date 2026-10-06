@@ -8,7 +8,7 @@ color_list = {
     "pink":  "#8f004f"
 }
 
-back_color = {
+panel_color = {
     "dark": ("#1a1a1a", "#4a4a4a", "#ffffff"),
     "light": ("#efefef", "#afafaf", "#000000")
 }
