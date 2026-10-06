@@ -2,13 +2,27 @@
 
 一个通过 svg 实现的最小 fcitx5 主题，风格为圆角，类 gnome 主题。
 
-dark:
+## 示例
 
-<img width="660" height="268" alt="图片" src="https://github.com/user-attachments/assets/1b6e5066-58f2-4b19-b473-377279422f50" />
+### acovia-blue-dark/light
 
-light:
+<img width="743" height="311" alt="图片" src="https://github.com/user-attachments/assets/07d5d0ad-8f1b-4066-972c-e8cfbb69593f" />
 
-<img width="660" height="268" alt="图片" src="https://github.com/user-attachments/assets/3395410f-dc45-4d4f-9d65-1da07a1958de" />
+<img width="743" height="311" alt="图片" src="https://github.com/user-attachments/assets/3cf2540d-50ad-49d1-a6a5-bba18c224081" />
+
+### acovia-gold-dark/light
+
+<img width="743" height="311" alt="图片" src="https://github.com/user-attachments/assets/5d4d9652-ff62-4606-b998-625dd061b7c0" />
+
+<img width="743" height="311" alt="图片" src="https://github.com/user-attachments/assets/69477021-71df-4a6d-96e2-6135b414ccc5" />
+
+### acovia-pink-dark/light
+
+<img width="743" height="311" alt="图片" src="https://github.com/user-attachments/assets/5abc4ac6-e7e4-40d9-8a17-9905147bd889" />
+
+<img width="743" height="311" alt="图片" src="https://github.com/user-attachments/assets/4ce2c626-e3a8-4054-a612-f629b4b003b5" />
+
+以及更多...
 
 ## 安装
 
