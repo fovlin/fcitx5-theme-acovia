@@ -13,10 +13,11 @@ panel_color = {
     "light": ("#efefef", "#afafaf", "#000000")
 }
 
+style = (12, 1)
+
 
 def gen_cfg(name, font_color):
-    conf = f'''
-# 重点色
+    conf = f'''# 重点色
 # AccentColorField=
 
 [Metadata]
@@ -457,6 +458,5 @@ Bottom=12
 # 顶部边距
 # Top=0
 # 底部边距
-# Bottom=0
-    '''
+# Bottom=0'''
     return conf
